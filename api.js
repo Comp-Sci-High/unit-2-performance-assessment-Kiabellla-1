@@ -5,3 +5,6 @@ const apiKey = process.env.apiKey2
 // run your code with node api.js
 // add your apiKey to .env if your API needs one, otherwise ignore
 // Follow the checklist on the Performance Assessment Google Doc
+
+console.log("Welcome to The New York Times chat bot!")
+console.log("")
