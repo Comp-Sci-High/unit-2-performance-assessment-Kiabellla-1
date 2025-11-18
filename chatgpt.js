@@ -11,8 +11,6 @@ console.log("What can I help you with?")
 
 const choice = prompt("Ask me anything: ")
 
-// console.log('Fetching response_id')
-
 const url = 'https://api.openai.com/v1/responses'
 
 async function fetchAI() {
