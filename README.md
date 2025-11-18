@@ -11,4 +11,4 @@ This performance assessment will evaluate your ability to **plan, design, and im
 You will build **2 simple command-line chat bots**:
 
 1. **`chatgpt.js`** – the user can ask ChatGPT a question using the ChatGPT API.
-2. **`api.js`** – the user will call a **brand-new API** (one we have NOT used in class) and display the results.
+2. **`api.js`** – the user will call a **brand-new`` API** (one we have NOT used in class) and display the results.
